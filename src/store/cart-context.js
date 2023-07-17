@@ -7,6 +7,6 @@ const CartContext = React.createContext({
   removeItem: (id) => {},
   clearCart: () => {},
 });
-//Добавляем новую функцию clearCart в CONTEXT
+
 
 export default CartContext;
